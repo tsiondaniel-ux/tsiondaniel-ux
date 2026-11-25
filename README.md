@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tsion! 👋
 
-<!--
-**tsiondaniel-ux/tsiondaniel-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-Year Software Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student passionate about building useful software solutions, learning new technologies, and solving real-world problems through technology.
+
+### 🛠️ Technical Skills
+- Programming: Kotlin, Python, C#
+- Web Development: HTML, CSS, JavaScript
+- Database: SQL, SQL Server
+- Tools: Git, GitHub, Android Studio
+
+### 🚀 Projects
+- DBU Connect – A university community and social networking application.
+- Women’s Lounge Food Delivery System – A food ordering and delivery system for university students.
+- More projects coming soon!
+
+### 🎯 Career Goal
+Seeking an internship opportunity where I can apply my software engineering knowledge, gain practical experience, and grow as a developer.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/tsiondaniel-ux
