@@ -22,3 +22,17 @@ Seeking an internship opportunity where I can apply my software engineering know
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/tsiondaniel-ux
+- ## 🛠️ Technical Skills
+
+- **Programming Languages:** Python, Kotlin, C#
+- **Database:** SQL Server, Oracle
+- **Tools:** Git, GitHub, Android Studio, Visual Studio
+- **Currently Learning:** Full-Stack Development
+
+## 🚀 My Goals
+
+I am passionate about software development and building useful applications. I am currently improving my programming skills and working on real-world projects.
+
+## 📂 Featured Projects
+
+Coming soon! I am currently organizing my university and personal projects.
